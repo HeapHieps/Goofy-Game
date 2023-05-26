@@ -12,7 +12,7 @@ pygame.display.set_icon(logo)
 background = pygame.image.load('LastStand.png')
 score = 0
 
-#Ingame characters
+#Ingame images
 Cente = pygame.image.load('CENTEs.png')
 Cente_img = pygame.transform.scale(Cente,(100,100))
 playerX = 1100
